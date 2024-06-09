@@ -22,8 +22,13 @@ body {
 
 /* Header */
 header {
-    background-color: lightcoral
+    background-color: lightcoral 
+    
 }
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
 
 /* Main Content */
 main {
@@ -57,7 +62,7 @@ body {
 /* Header */
 header {
     background-color: lightcoral
-        }
+}
 
 /* Main Content */
 main {
